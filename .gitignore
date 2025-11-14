@@ -1,0 +1,18 @@
+ # --- Ignore standard Python/Conda/VSCode files ---
+# These folders and their contents will always be ignored
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+/env/
+/venv/
+/.venv/
+*.pyc
+
+# --- Ignore ALL other files by default ---
+*
+
+# --- But DO NOT ignore (un-ignore) these specific files ---
+!*.pdf
+!*.tex
+!*.ipynb
+!.gitignore
