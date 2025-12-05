@@ -1,4 +1,4 @@
-# ⚛️ Quantum Cryptography Lab Report: BB84 Protocol
+# Quantum Cryptography Lab Report: BB84 Protocol
 
 ## Overview & Project Goal
 This repository contains the source code and report files for a university project analyzing the security principle of the **BB84 (Bennett and Brassard, 1984) protocol** using polarization encoding.
